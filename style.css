@@ -1,6 +1,8 @@
-html, body {
-  margin: 0;
-  padding: 0;
+body {
+  justify-content: center;
+  display: flex;
+  padding-top: 50px;
+  background: lightsteelblue;
 }
 canvas {
   display: block;
